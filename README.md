@@ -1,6 +1,7 @@
 # CloudTunnel
 
 ## 🚀 About the Project
+
 Note: This project is still in the alpha stage. You may experience bugs, glitches, or unexpected behavior. Please report any issues on GitHub.
 
 **Disclaimer:** This project is an independent initiative and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Cloudflare or Playit.gg.
@@ -32,7 +33,7 @@ Make sure you have:
 ### 2️⃣ Run the Script
 ```sh
 chmod +x main.py
-./main
+./main.py
 ```
 
 ### 3️⃣ Provide Credentials
