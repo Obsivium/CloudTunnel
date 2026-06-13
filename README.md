@@ -1,5 +1,7 @@
 # CloudTunnel
 
+![demo](demo.gif)
+
 ## 🚀 About the Project
 
 Note: This project is still in the alpha stage. You may experience bugs, glitches, or unexpected behavior. Please report any issues on GitHub.
